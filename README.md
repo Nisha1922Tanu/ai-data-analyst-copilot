@@ -3,14 +3,21 @@ It analyzes datasets, identifies trends, and provides actionable business insigh
 
 ## 🖥️ Demo
 
-### 📊 Analysis Output
-![Analysis](analysis-output.png)
-![Analysis](analysis-output1.png)
-![Analysis](analysis-output2.png)
+<p align="center">
+  <img src="analysis-output.png" width="700"/>
+</p>
 
-### ⚙️ Copilot Setup
-![Setup](copilot-demo.png)
+<p align="center">
+  <img src="analysis-output1.png" width="700"/>
+</p>
 
+<p align="center">
+  <img src="analysis-output2.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="copilot-demo.png" width="700"/>
+</p>
 ---
 
 ## 🚀 Features
