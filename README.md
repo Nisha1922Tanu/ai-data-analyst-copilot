@@ -1,5 +1,3 @@
-<img width="167" height="30" alt="image" src="https://github.com/user-attachments/assets/a9b272fb-b6a7-4fb4-94b9-18d4286a0029" /><img width="1729" height="204" alt="image" src="https://github.com/user-attachments/assets/0d2a7f0f-4206-47a9-b75c-589282f0cac7" /># AI Data Analyst Copilot
-
 ## 📌 Overview
 
 An AI-powered data analyst agent built using Microsoft Copilot Studio.
