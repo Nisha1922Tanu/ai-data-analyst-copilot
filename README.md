@@ -3,11 +3,13 @@ It analyzes datasets, identifies trends, and provides actionable business insigh
 
 ## 🖥️ Demo
 
-![Copilot Demo](copilot-demo.png)
-![Analysis Output](analysis-output.png)
-![Analysis Output](analysis-output1.png)
-![Analysis Output](analysis-output2.png)
+### 📊 Analysis Output
+![Analysis](analysis-output.png)
+![Analysis](analysis-output1.png)
+![Analysis](analysis-output2.png)
 
+### ⚙️ Copilot Setup
+![Setup](copilot-demo.png)
 
 ---
 
