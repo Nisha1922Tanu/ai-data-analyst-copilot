@@ -1,7 +1,15 @@
-## 📌 Overview
+<img width="933" height="485" alt="image" src="https://github.com/user-attachments/assets/a95d1f6e-cb6e-4114-94f0-6cc36303bbac" />## 📌 Overview
 
 An AI-powered data analyst agent built using Microsoft Copilot Studio.
 It analyzes datasets, identifies trends, and provides actionable business insights.
+
+## 🖥️ Demo
+
+![Copilot Demo](copilot-demo.png)
+![Analysis Output](analysis-output.png)
+![Analysis Output](analysis-output1.png)
+![Analysis Output](analysis-output2.png)
+
 
 ---
 
